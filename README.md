@@ -11,7 +11,7 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 Don't have anything to show here.
 
 ## 🏆 GitHub Trophies:
-I'm Lᴏsᴛ. No Trophy 🏆.<br>###Question For you 🤔<br>Introduce yourself without mentioning your name, age, occupation<br>Where you are from⁉️<br>Where you grew up⁉️<br>Any superficial marketers like<br>1. Religion <br>2. Nationality<br>3. Ethnicity<br>What your hobbies are⁉️<br>Ask yourself who am I without these⁉️<br>
+I'm Lᴏsᴛ. No Trophy 🏆.<br>Question For you 🤔<br>Introduce yourself without mentioning your name, age, occupation<br>Where you are from⁉️<br>Where you grew up⁉️<br>Any superficial marketers like<br>1. Religion <br>2. Nationality<br>3. Ethnicity<br>What your hobbies are⁉️<br>Ask yourself who am I without these⁉️<br>
 ![](https://github-profile-trophy.vercel.app/?username=LOST-4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
