@@ -23,10 +23,6 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=LOST-4&theme=radical&no-frame=true&margin-w=4)
-
 
 ### Question For you 🤔
 #### Introduce yourself without mentioning your name, age, occupation<br>Where you are from⁉️<br>Where you grew up⁉️<br>Any superficial marketers like<br>1. Religion <br>2. Nationality<br>3. Ethnicity<br>What your hobbies are⁉️<br>Ask yourself who am I without these⁉️<br>
