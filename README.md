@@ -16,13 +16,15 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSXinfinity&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=LOSXinfinity&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOSXinfinity&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSXinfinity&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
