@@ -19,9 +19,7 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 ## 📸 Portfolio Snapshot
 
 <div align="center">
-
-<img src="https://drive.google.com/file/d/1djsV0bwcVQLxhTRcw7yui2BXrZRqmuHQ/view?usp=drive_link" width="500"/>
-
+  <img src="https://drive.google.com/uc?export=view&id=1djsV0bwcVQLxhTRcw7yui2BXrZRqmuHQ" width="500"/>
 </div>
 
 
