@@ -16,19 +16,13 @@ Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизн�
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## 📸 Portfolio Snapshot
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LOSXinfinity&show_icons=true&theme=radical&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSXinfinity&layout=compact&theme=radical&hide_border=true)
+<img src="https://drive.google.com/file/d/1djsV0bwcVQLxhTRcw7yui2BXrZRqmuHQ/view?usp=drive_link" width="500"/>
 
 </div>
-
----
 
 
 ### Question For you 🤔
