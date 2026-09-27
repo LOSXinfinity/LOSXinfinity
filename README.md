@@ -1,4 +1,4 @@
-![image alt](https://github.com/LOSXinfinity/LOSXinfinity/blob/55cd3a37894d4a524f11e1530db1b2f0eb6b0818/GitHub_Banner_V2.png)
+![image alt]((https://github.com/LOSXinfinity/LOSXinfinity/blob/e2944748d486716d2e38176e910914cfe9d4d4e7/GitHub_Banner.png))
 # 💫 About Me:
 Digital creator<br>Lᴏsᴛ ♎<br>Пространство между жизнью и смертью - вот где мы наиболее живы.💔<br>🎮 Gᴀᴍᴇʀ<br>💻 Eᴅɪᴛ Aɴɪᴍᴀᴛɪᴏɴ<br>📸 Nᴀᴛᴜʀᴇ Pʜᴏᴛᴏɢʀᴀᴘʜʏ<br>🈴 Gᴏᴋᴜ X ɪTᴀᴄʜɪ X Yᴏʀɪɪᴄʜɪ
 
